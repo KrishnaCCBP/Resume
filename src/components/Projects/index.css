@@ -1,0 +1,39 @@
+.projects-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 40px;
+}
+.project-container {
+  padding-left: 5px;
+}
+.projects-img {
+  width: 150px;
+  text-align: center;
+}
+.projects-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #265164;
+}
+.bold {
+  font-weight: 600;
+}
+.project-heading {
+  font-weight: 600;
+}
+.text {
+  font-size: 15px;
+  color: black;
+  font-weight: 400;
+}
+.list {
+  list-style-type: disc;
+}
+.line {
+  color: black;
+  width: 90vw;
+  font-weight: bold;
+}

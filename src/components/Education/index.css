@@ -1,0 +1,39 @@
+.education-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  padding: 10px;
+  margin-top: 50px;
+}
+.education-img {
+  height: 220px;
+  width: 250px;
+  margin-top: 20px;
+}
+.education-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #265164;
+}
+.education-paragraph {
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-align: center;
+  color: #555555;
+}
+.description {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.text {
+  font-size: 18px;
+  font-weight: 200;
+}
+.line {
+  color: black;
+  width: 90vw;
+  font-weight: bold;
+}

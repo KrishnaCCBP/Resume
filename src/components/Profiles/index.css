@@ -1,0 +1,34 @@
+.profiles-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.profiles-img {
+  width: 150px;
+}
+.profiles-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #265164;
+}
+.profile-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.bold {
+  font-weight: 600;
+  margin-right: 10px;
+}
+.profile-icon {
+  height: 50px;
+  width: 50px;
+  margin-right: 5px;
+}
+.line {
+  color: black;
+  width: 90vw;
+  font-weight: bold;
+}

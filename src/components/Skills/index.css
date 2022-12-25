@@ -1,0 +1,36 @@
+.skills-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 50px;
+  height: 70vh;
+}
+.skills-img {
+  height: 220px;
+  width: 250px;
+}
+.skills-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #265164;
+}
+.about-paragraph {
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-align: center;
+  color: #555555;
+}
+.text {
+  font-size: 30px;
+  font-weight: 200;
+}
+.bold {
+  font-weight: 600;
+}
+.line {
+  color: black;
+  width: 90vw;
+  font-weight: bold;
+}
